@@ -67,9 +67,9 @@
 }
 
 #resume .timeline-ico {
-    height: 4.8rem;
-    width: 4.8rem;
-    line-height: 4.8rem;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
     background: #313131;
     border-radius: 50%;
     text-align: center;
@@ -100,7 +100,7 @@
 
 #resume .timeline-header p {
     font-family: "poppins-regular", sans-serif;
-    font-size: 16pxrem;
+    font-size: 16px;
     color: #888888;
 }
 
@@ -136,11 +136,12 @@
     }
 
     #resume .timeline-header h3 {
-        font-size: 1.8rem;
+        font-size: 20px;
     }
 
     #resume .timeline-header p {
-        font-size: 1.4rem;
+        font-size: 16px;
+
     }
 
     #resume .timeline-content {
@@ -159,17 +160,17 @@
 
     #resume .timeline-header {
         float: none;
+        font-size: 20px;
         width: auto;
-        padding-right: 15px;
         text-align: left;
     }
 
     #resume .timeline-header h3 {
-        font-size: 2rem;
+        font-size: 16px;
     }
 
     #resume .timeline-header p {
-        font-size: 1.5rem;
+        font-size: 12px;
         margin-bottom: 1.5rem;
     }
 
@@ -181,7 +182,7 @@
         padding-bottom: 0;
         padding-top: 2.1rem;
         margin-bottom: .6rem;
-        font-size: 1.7rem;
+        font-size: 18px;
     }
 
     #resume .timeline-content h4::after {
@@ -197,7 +198,7 @@
 
 @media only screen and (max-width:480px) {
     #resume .resume-header h2 {
-        font-size: 2.2rem;
+        font-size: 14px;
     }
 
     #resume .timeline-wrap::before {
@@ -210,7 +211,7 @@
         line-height: 3.6rem;
         left: 1.8rem;
         margin-left: -1.8rem;
-        font-size: 1.5rem;
+        font-size: 16px;
     }
 
     #resume .timeline-header,
